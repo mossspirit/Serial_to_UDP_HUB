@@ -1,0 +1,10 @@
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\obj\Debug\VRHoleHub_.csprojAssemblyReference.cache
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\obj\Debug\VRHoleHub_.Form1.resources
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\obj\Debug\VRHoleHub_.Properties.Resources.resources
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\obj\Debug\VRHoleHub_.csproj.GenerateResource.cache
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\obj\Debug\VRHoleHub_.csproj.CoreCompileInputs.cache
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\bin\Debug\VRHoleHub_.exe.config
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\bin\Debug\VRHoleHub_.exe
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\bin\Debug\VRHoleHub_.pdb
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\obj\Debug\VRHoleHub_.exe
+C:\Users\mosss\OneDrive\Document\GitHub\Serial_to_UDP_HUB\VRHoleHub_\VRHoleHub_\obj\Debug\VRHoleHub_.pdb
